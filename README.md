@@ -14,4 +14,4 @@ Chrome extension to add Japanese language for prodraft.leagueoflegends.com
 
 ## 使い方
 
-[Pic Ban Tool](http://prodraft.leagueoflegends.com) にて，設定画面に「LOCALE」に「日本語」が追加され，PIC & BAN 画面では日本語名でチャンピオンが表示される．
+[Pic Ban Tool](http://prodraft.leagueoflegends.com) の PIC & BAN 画面にて，下部に「日本語」ボタンが追加され，押すと日本語のページへ移動する．
