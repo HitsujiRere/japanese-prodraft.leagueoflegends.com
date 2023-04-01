@@ -25,5 +25,5 @@ await fetch(prodraftSrcUrl)
       `fetch("${championsDataUrl}")`
     );
 
-    fs.writeFile('extension/prodraft.js', prodraftFile);
+    fs.writeFile('out/prodraft.js', prodraftFile);
   });
