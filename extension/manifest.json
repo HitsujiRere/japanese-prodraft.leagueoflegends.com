@@ -1,0 +1,19 @@
+{
+  "name": "Japanese for prodraft.leagueoflegends.com",
+  "action": {},
+  "manifest_version": 3,
+  "version": "13.6.1.0",
+  "description": "Japanese for prodraft.leagueoflegends.com",
+  "content_scripts": [
+    {
+      "matches": ["http://prodraft.leagueoflegends.com/*"],
+      "js": ["script.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "matches": ["http://prodraft.leagueoflegends.com/*"],
+      "resources": ["prodraft.js"]
+    }
+  ]
+}
